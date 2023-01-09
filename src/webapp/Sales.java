@@ -6,4 +6,7 @@ public class Sales {
     //25% off sales
 
     //basically making changes
+
+    //more sales items
+    //promotions added
 }
